@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 My name is Luqmaan
 
 <!--
 **Luqu24/Luqu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on some web development projects and some games with python. <br>
+I'm currently learning image processing, web development backend modules and some other modules. <br>
+I'm looking to collaborate on a web development project although I am only a begginer I would like to gain some experience. <br>
+I'm looking for help on the next step in my journey I have done all the basics of python and now would like to focus on one aspect of coding but don't know what or the resoruces. <br>
+Ask me about anything you like as long as it is answerable I'll gladly answer it. <br>
+Contact me: nadim03akhtar@gmail.com <br>
+Pronouns: He/Him <br>
+Fun Fact: I love anime
